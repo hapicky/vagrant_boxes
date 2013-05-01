@@ -1,6 +1,6 @@
 # Vagrant Boxes
 
-私的Vagrant用Boxリポジトリ
+私的Vagrant Box置き場
 
 ## 環境の用意
 
