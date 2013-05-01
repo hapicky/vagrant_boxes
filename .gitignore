@@ -1,1 +1,4 @@
+.bundle
 .ruby-version
+bin/*
+vendor/bundle/*
